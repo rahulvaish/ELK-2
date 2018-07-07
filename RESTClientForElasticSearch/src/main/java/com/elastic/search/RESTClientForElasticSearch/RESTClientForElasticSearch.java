@@ -33,11 +33,8 @@ public class RESTClientForElasticSearch {
 			
 			ObjectMapper mapper = new ObjectMapper();
 			//Movie movie = mapper.readValue(new File("D:\\LcoalGitRepositories\\jsonfile.json"), Movie.class);
-			output ="{\r\n" + 
-					"  \"title\": \"Freedom Writers\",\r\n" + 
-					"  \"category\":\"Drama and Teen film\",\r\n" + 
-					"  \"published_date\":\"2007\"\r\n" + 
-					"}";
+			output = output.replace("{\"_index\":\"entertainment\",\"_type\":\"movies\",\"_id\":\"001\",\"_version\":1,\"found\":true,\"_source\":", "");
+			output = output.substring(0, output.length()-1);
 			Movie movie = mapper.readValue(output, Movie.class);
 			System.out.println(movie.getTitle());
 			System.out.println(movie.getCategory());
