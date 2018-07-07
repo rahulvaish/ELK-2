@@ -1,5 +1,8 @@
 package com.elastic.search.RESTClientForElasticSearch;
 
+import java.io.File;
+
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.sun.jersey.api.client.Client;
 import com.sun.jersey.api.client.ClientResponse;
 import com.sun.jersey.api.client.WebResource;
@@ -26,7 +29,19 @@ public class RESTClientForElasticSearch {
 
 			System.out.println("Output from Server .... \n");
 			System.out.println(output);
-
+			System.out.println("____________________________");
+			
+			ObjectMapper mapper = new ObjectMapper();
+			//Movie movie = mapper.readValue(new File("D:\\LcoalGitRepositories\\jsonfile.json"), Movie.class);
+			output ="{\r\n" + 
+					"  \"title\": \"Freedom Writers\",\r\n" + 
+					"  \"category\":\"Drama and Teen film\",\r\n" + 
+					"  \"published_date\":\"2007\"\r\n" + 
+					"}";
+			Movie movie = mapper.readValue(output, Movie.class);
+			System.out.println(movie.getTitle());
+			System.out.println(movie.getCategory());
+			System.out.println(movie.getPublished_date());
 		  } catch (Exception e) {
 
 			e.printStackTrace();
