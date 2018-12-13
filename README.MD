@@ -20,8 +20,7 @@
 ![image](https://user-images.githubusercontent.com/689226/49922807-c9b05380-fed7-11e8-943e-7ab4cf339a36.png)
 
 ##### STEP#5: Now launch, POSTMAN. What you verified on browser, let’s see the same on POSTMAN:
-![image](https://user-images.githubusercontent.com/689226/49923787-8dcabd80-feda-11e8-86a7-00b8b42424df.png)
-
+![image](https://user-images.githubusercontent.com/689226/49923846-b9e63e80-feda-11e8-9753-8d8106ce28bb.png)
 
 ##### STEP#6: Let’s insert something:
 ![image](https://user-images.githubusercontent.com/689226/49922814-d03ecb00-fed7-11e8-8e50-e8278e1db80f.png)
