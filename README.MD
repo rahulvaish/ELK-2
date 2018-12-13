@@ -20,4 +20,4 @@
 ![image](https://user-images.githubusercontent.com/689226/49922818-d2088e80-fed7-11e8-9310-017b26bc8394.png)
 ![image](https://user-images.githubusercontent.com/689226/49922822-d46ae880-fed7-11e8-970d-f974f9cf9524.png)
 
-##### STEP#7: Execute the REST Client, to fetch the response.
+##### STEP#7: Execute the RESTClientForElasticSearch Project, to fetch the response.
