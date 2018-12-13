@@ -37,9 +37,15 @@
 ![image](https://user-images.githubusercontent.com/689226/49922879-e3ea3180-fed7-11e8-8435-14a28788bc3e.png)
 ##### OR
 ![image](https://user-images.githubusercontent.com/689226/49922896-e64c8b80-fed7-11e8-8f87-616ecad34e19.png)
-##### OR (USING LIKE)
+##### OR 
 ![image](https://user-images.githubusercontent.com/689226/49922904-e8aee580-fed7-11e8-9c18-5ba6427fc1ad.png)
-
 ![image](https://user-images.githubusercontent.com/689226/49922910-eba9d600-fed7-11e8-8c00-c67dbd9cc158.png)
-
+##### For Complex Queries - https://www.elastic.co/guide/en/elasticsearch/guide/current/combining-filters.html  
+##### Now if you want to delete any record - 
 ![image](https://user-images.githubusercontent.com/689226/49922914-efd5f380-fed7-11e8-913d-6ccc93286798.png)
+
+<hr>
+
+##### [Complete Elasticsearch CRUD Document](https://github.com/rahulvaish/ReferenceDocuments/tree/master/UnderstandingElasticsearch)
+
+
