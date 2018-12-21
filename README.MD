@@ -1,6 +1,6 @@
 This repository contains self-contained examples of Elastic Search.
 ### Table of Contents
-  - <a href='#elasticsearch-rest-client-java'>Elastic Search Java</a> 
+  - <a href='#elasticsearch-rest-client-using-java'>Elastic Search Java</a> 
 
 <hr>
 
