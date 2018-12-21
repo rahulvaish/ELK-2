@@ -10,11 +10,7 @@ This repository contains self-contained examples of Elastic Search.
   -  Download ElasticSearch and extract its contents.
 ![image](https://user-images.githubusercontent.com/689226/49922686-74744200-fed7-11e8-9ee0-408d4dc22e0f.png)
   - Execute Elastic Search:
-  
-  
-  
-  
-  ![image](https://user-images.githubusercontent.com/689226/49922750-9e2d6900-fed7-11e8-9e8d-57fe2babaf4a.png)
+      ![image](https://user-images.githubusercontent.com/689226/49922750-9e2d6900-fed7-11e8-9e8d-57fe2babaf4a.png)
 
 <hr>
 
