@@ -15,6 +15,9 @@ This repository contains self-contained examples of Elastic Search.
   -  To re-check if Elastic Server is Up and Running:
   ![image](https://user-images.githubusercontent.com/689226/49922807-c9b05380-fed7-11e8-943e-7ab4cf339a36.png)
 
+
+
+
 <hr>
 
 ##### [Complete Elasticsearch CRUD Document](https://github.com/rahulvaish/ReferenceDocuments/tree/master/UnderstandingElasticsearch)
