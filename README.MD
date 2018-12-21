@@ -24,7 +24,7 @@ This repository contains self-contained examples of Elastic Search.
   -  UPDATE Operation:
 ![image](https://user-images.githubusercontent.com/689226/50343645-b6435f00-054d-11e9-9981-bbcf5c0c9633.png)
 ![image](https://user-images.githubusercontent.com/689226/49922841-dd5bba00-fed7-11e8-9125-f7856abb5723.png)
-  -  SEARCH Operation [For All Values]:
+  -  SEARCH Operation [For All Values]:<br/>
 ![image](https://user-images.githubusercontent.com/689226/49922857-e056aa80-fed7-11e8-9449-dff0d942c287.png)
   -  [WAY#1]<br/>
   ![image](https://user-images.githubusercontent.com/689226/49922879-e3ea3180-fed7-11e8-8435-14a28788bc3e.png)
