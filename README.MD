@@ -13,8 +13,7 @@ This repository contains self-contained examples of Elastic Search.
   ![image](https://user-images.githubusercontent.com/689226/50343265-2b159980-054c-11e9-89bf-42a4b77effaa.png)
   ![image](https://user-images.githubusercontent.com/689226/49922805-c7e69000-fed7-11e8-8325-91984876fc72.png)
   -  To re-check if Elastic Server is Up and Running:
- ![image](https://user-images.githubusercontent.com/689226/50343307-60ba8280-054c-11e9-8f46-7e568f5ad15d.png)
-
+![image](https://user-images.githubusercontent.com/689226/50343367-92cbe480-054c-11e9-910e-744f21de67f1.png)
 
 
 <hr>
