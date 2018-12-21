@@ -24,16 +24,17 @@ This repository contains self-contained examples of Elastic Search.
   -  UPDATE Operation:
 ![image](https://user-images.githubusercontent.com/689226/50343645-b6435f00-054d-11e9-9981-bbcf5c0c9633.png)
 ![image](https://user-images.githubusercontent.com/689226/49922841-dd5bba00-fed7-11e8-9125-f7856abb5723.png)
-
   -  SEARCH Operation [For All Values]:
 ![image](https://user-images.githubusercontent.com/689226/49922857-e056aa80-fed7-11e8-9449-dff0d942c287.png)
-  -  [WAY#1]:
-![image](https://user-images.githubusercontent.com/689226/49922879-e3ea3180-fed7-11e8-8435-14a28788bc3e.png)
-  -  [WAY#2]:
-![image](https://user-images.githubusercontent.com/689226/49922896-e64c8b80-fed7-11e8-8f87-616ecad34e19.png)
-  -  [WAY#3]:
-![image](https://user-images.githubusercontent.com/689226/49922904-e8aee580-fed7-11e8-9c18-5ba6427fc1ad.png)
-![image](https://user-images.githubusercontent.com/689226/49922910-eba9d600-fed7-11e8-8c00-c67dbd9cc158.png)
+  -  [WAY#1]<br/>
+  ![image](https://user-images.githubusercontent.com/689226/49922879-e3ea3180-fed7-11e8-8435-14a28788bc3e.png)
+  -  [WAY#2]<br/>
+  ![image](https://user-images.githubusercontent.com/689226/49922896-e64c8b80-fed7-11e8-8f87-616ecad34e19.png)
+  -  [WAY#3]<br/>
+  ![image](https://user-images.githubusercontent.com/689226/49922904-e8aee580-fed7-11e8-9c18-5ba6427fc1ad.png)
+  ![image](https://user-images.githubusercontent.com/689226/49922910-eba9d600-fed7-11e8-8c00-c67dbd9cc158.png)
+  - DELETE Operation:<br/>
+![image](https://user-images.githubusercontent.com/689226/49922914-efd5f380-fed7-11e8-913d-6ccc93286798.png)
 
 
 
