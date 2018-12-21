@@ -1,11 +1,11 @@
 This repository contains self-contained examples of Elastic Search.
 ### Table of Contents
-  - <a href='#elasticsearch-rest-client-using-java'>Elastic Search Java</a> 
+  - <a href='#elasticsearch-rest-client-in-java'>Elastic Search Java</a> 
 
 <hr>
 
 
-- ###### [ElasticSearch REST Client using Java](https://github.com/rahulvaish/ElasticSearch/tree/ElasticSearchJava) 
+- ###### [ElasticSearch REST Client in Java](https://github.com/rahulvaish/ElasticSearch/tree/ElasticSearchJava) 
    ###### REST Client implementation in Java to communicate with Elastic Server. [[Source Code]](https://github.com/rahulvaish/ElasticSearch/tree/ElasticSearchJava) 
   -  Download ElasticSearch and extract its contents.
   ![image](https://user-images.githubusercontent.com/689226/49922686-74744200-fed7-11e8-9ee0-408d4dc22e0f.png)
